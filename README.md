@@ -1,13 +1,13 @@
-# A Music Player using Python.
+# Music Player using Pygame and Tkinter
+This program is a simple music player that uses the Pygame and Tkinter libraries to play and control music files. It allows the user to select songs from a list and perform basic operations such as playing, pausing, stopping, and resuming.
 
-# Usage:
-To use the music player, simply run the musicpalyer_2.py file.
+# Requirements
+Python 3.x,Pygame,Tkinter
 
-# Dependencies:
-The music player requires pygame,mixer,os modules that should be installed and imported.
-
-# Development:
-The code to this project is uploaded in a file.To make changes to the music player, modify the music_player2.py file.
-
-# Buttons:
+# Usage
+Install Python 3.x and the Pygame and Tkinter libraries.
+Download or clone this repository to your local machine.
+Open the terminal and navigate to the directory where the repository is located.
+Run the following command to start the music player:
+python musicplayer2.py
 
