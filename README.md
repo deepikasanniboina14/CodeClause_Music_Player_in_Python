@@ -39,7 +39,7 @@ step10:Start the mainloop to run the tkinter window.
 That's it! The user can now select a song from the playlist and control the music playback using the buttons.
 
 # Credits:
-This project is developed by Sanniboina Deepika.
+This Music Player project is developed by Sanniboina Deepika.
 
 
 
