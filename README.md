@@ -36,6 +36,7 @@ step7:Get a list of all the songs in the directory using the listdir function fr
 step8:Insert each song in the playlist widget using a for loop.
 step9:Create buttons for playing, pausing, stopping, and resuming the music playback. Configure each button with a font of 'candara' and a size of 20. Set the background and foreground colors and padding for each button accordingly. Grid each button to the root window with appropriate row and column numbers.
 step10:Start the mainloop to run the tkinter window.
+That's it! The user can now select a song from the playlist and control the music playback using the buttons.
 
 # Credits:
 This project is developed by Sanniboina Deepika.
