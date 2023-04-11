@@ -26,6 +26,19 @@ Stop: Stops the playback of the selected song.
 Resume: Resumes the playback of the paused song.
 
 # Algorithm
+This code is a simple music player that allows the user to select a song from a playlist and play, pause, resume, or stop it using buttons. Here's the algorithm for this code:
+step1:Import necessary libraries: pygame, tkinter, and os.
+step2:Define the functions for playing, pausing, stopping, and resuming the selected song. Each function uses the mixer module from pygame to control the music playback.
+step3:Create a tkinter window and initialize the mixer.
+step4:Create a Listbox widget to display the playlist of songs. Set the selectmode to SINGLE so that only one song can be selected at a time. Set the background color to black, foreground color to white, and font to 'optima' with a size of 15. Set the width and height of the widget to 32 and 7, respectively. Grid the widget to the root window with columnspan=20.
+step6:Change the current directory to the directory containing the music files.
+step7:Get a list of all the songs in the directory using the listdir function from os module.
+step8:Insert each song in the playlist widget using a for loop.
+step9:Create buttons for playing, pausing, stopping, and resuming the music playback. Configure each button with a font of 'candara' and a size of 20. Set the background and foreground colors and padding for each button accordingly. Grid each button to the root window with appropriate row and column numbers.
+step10:Start the mainloop to run the tkinter window.
+
+# Credits:
+This project is developed by Sanniboina Deepika.
 
 
 
